@@ -1,0 +1,13 @@
+body {
+    scroll-behavior: smooth;
+}
+
+.hero {
+    height: 100vh;
+    background: url('https://source.unsplash.com/1600x900/?nature') center/cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
